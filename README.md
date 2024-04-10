@@ -14,10 +14,12 @@ Current utilities-
 8. calculateAltmanZScore
 9. calculateGordonIntrinsicValueDDM
 
+Note: If any error related to ES module rename file with .mjs extension instead of .js
+
 Example Usage-
 
 ```javascript
-// Importing functions from the finance module (If any error rename file with .mjs extension instead of .js)
+// Importing functions from the finance module
 import {
     calculateSharpeRatio,
     calculateTreynorRatio,
