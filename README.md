@@ -17,18 +17,18 @@ Current utilities-
 Example Usage-
 
 ```javascript
-// Importing functions from the finance module
+// Importing functions from the finance module (If any error rename file with .mjs extension instead of .js)
 import {
-  calculateSharpeRatio,
-  calculateTreynorRatio,
-  calculateSortinoRatio,
-  calculateEnterpriseValueToEBITDA,
-  calculatePriceToBook,
-  calculateGrahamNumber,
-  calculateExpectedReturnCAPM,
-  calculateAltmanZScore,
-  calculateGordonIntrinsicValueDDM,
-} from "../financial-ratios/index.js";
+    calculateSharpeRatio,
+    calculateTreynorRatio,
+    calculateSortinoRatio,
+    calculateEnterpriseValueToEBITDA,
+    calculatePriceToBook,
+    calculateGrahamNumber,
+    calculateExpectedReturnCAPM,
+    calculateAltmanZScore,
+    calculateGordonIntrinsicValueDDM,
+  } from 'financial-ratios';
 
 // Test values
 const riskFreeRate = 0.02; // 2%
