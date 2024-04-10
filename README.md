@@ -16,6 +16,7 @@ Current utilities-
 
 Example Usage-
 
+```javascript
 // Importing functions from the finance module
 import {
   calculateSharpeRatio,

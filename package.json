@@ -1,6 +1,6 @@
 {
   "name": "financial-ratios",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "An npm package to compute various financial ratios based on stock data provided",
   "main": "index.js",
   "type": "module",
