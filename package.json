@@ -1,0 +1,27 @@
+{
+  "name": "financial-ratios",
+  "version": "1.0.0",
+  "description": "An npm package to compute various financial ratios based on stock data provided",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimahajan1997/financial-ratios.git"
+  },
+  "keywords": [
+    "financial-ratios",
+    "stock-ratios",
+    "npm",
+    "stocks",
+    "finance"
+  ],
+  "author": "Jai Mahajan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jaimahajan1997/financial-ratios/issues"
+  },
+  "homepage": "https://github.com/jaimahajan1997/financial-ratios#readme"
+}
