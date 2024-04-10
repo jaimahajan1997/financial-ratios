@@ -1,2 +1,2 @@
 # financial-ratios
-Compute various financial ratios based on stock data provided
+An npm package to compute various financial ratios based on stock data provided
